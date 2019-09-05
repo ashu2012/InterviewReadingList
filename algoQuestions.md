@@ -18,18 +18,18 @@
 ### Find smallest anagram subbsequence of one string in another string . Hint use sliding window and 2 hash table. O(n approach)
 ex:- S1:this  is a java test  s2: testi
 
-## 218. The Skyline Problem
+### 218. The Skyline Problem
 ##### use segment trees or n^2log n sorting approach
 ##### https://leetcode.com/problems/the-skyline-problem/solution/
 
-## 493. Reverse Pairs
+### 493. Reverse Pairs
 ##### use merge sort kind of approach
 
-## 327. Count of Range Sum
+### 327. Count of Range Sum
 #### https://leetcode.com/problems/range-sum-query-mutable/
 
 
-## segment trees
+## segment trees or BIT or fewic trees 
 #### https://leetcode.com/articles/a-recursive-approach-to-segment-trees-range-sum-queries-lazy-propagation/#
 
 #### https://leetcode.com/problems/range-sum-query-mutable/discuss/75753/Java-using-Binary-Indexed-Tree-with-clear-explanation
@@ -79,6 +79,16 @@ ex:- S1:this  is a java test  s2: testi
 #### petrol pum tour  https://www.tutorialcup.com/array/circular-tour-visit-petrol-bunks.htm
 #### Maximum product subarray  https://www.tutorialcup.com/array/maximum-product-subarray.htm
  
+
+## Hash Table 
+#### microsoft find line which pass through maximim points in 2d . use two level hash table for "m" and "c"  and use elements from existing list of  "m"  and  "c"   and ned keys based on different m and c similar to cellebrity problem can reducce space from O (n^2).
+#### find line which divides mamxixmum point O(nlogn ) sort along one axis and then do rest of activities.
+#### Google find duplicate lines in file if fit in memory and not able to fit in memory. Use trie based approach approved as no hash table collision. if not fit and then read in chunks.
+
+## reserviour sampling or uniform distribution of numbers.
+#### Walmart find 
+
+
 
 
 
