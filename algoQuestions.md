@@ -86,8 +86,10 @@ ex:- S1:this  is a java test  s2: testi
 #### Google find duplicate lines in file if fit in memory and not able to fit in memory. Use trie based approach approved as no hash table collision. if not fit and then read in chunks.
 
 ## reserviour sampling or uniform distribution of numbers.
-#### Walmart find 
-
+#### Walmart find n numbers from equally likely from stream. if 4 stream how to select numbers equally likely.
+#### https://medium.com/trimble-maps-engineering-blog/tiered-reservoir-sampling-a-solution-for-large-quantities-of-streaming-data-a96e0f9916a4
+#### google some random number generator and fixed set of numbers involving duplicate how to return numbers equally likely 
+how to update stream if new numbers keep on adding. 
 
 
 
