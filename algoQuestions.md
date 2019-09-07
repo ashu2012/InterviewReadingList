@@ -90,7 +90,7 @@ ex:- S1:this  is a java test  s2: testi
 #### https://medium.com/trimble-maps-engineering-blog/tiered-reservoir-sampling-a-solution-for-large-quantities-of-streaming-data-a96e0f9916a4
 #### google some random number generator and fixed set of numbers involving duplicate how to return numbers equally likely 
 how to update stream if new numbers keep on adding. 
-
+#### https://news.ycombinator.com/item?id=9158222
 
 
 
