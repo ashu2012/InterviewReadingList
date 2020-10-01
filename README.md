@@ -165,4 +165,9 @@ https://eng.uber.com/data-partitioning-global-indexing/
 
 (65)how to rebalance kafka topic . how to add new node in kafka . spark streaming in mini batch . how to do relatime work with kafka data . how to descide kafka topic and partition.
 
-(66)
+(66) spring boot transactions and aciid implementation
+### https://dzone.com/articles/spring-boot-transactions-tutorial-understanding-tr
+### https://www.youtube.com/watch?v=zVRO-LELoSw&feature=emb_logo
+### https://www.javainuse.com/spring/boot-transaction-isolation
+
+(67)
