@@ -170,4 +170,9 @@ https://eng.uber.com/data-partitioning-global-indexing/
 ### https://www.youtube.com/watch?v=zVRO-LELoSw&feature=emb_logo
 ### https://www.javainuse.com/spring/boot-transaction-isolation
 
-(67)
+(67)event based microservices:-
+### https://microservices.io/
+### 2phase commit and saga pattern
+### CQRS
+
+(68)
