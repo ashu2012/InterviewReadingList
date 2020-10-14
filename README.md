@@ -175,4 +175,23 @@ https://eng.uber.com/data-partitioning-global-indexing/
 ### 2phase commit and saga pattern
 ### CQRS
 
-(68)
+(68)resilency in microservices old pattern using hystrix
+
+(69) 2p commit draw back
+## no one uses
+## single point of failure
+## fault tolerance is diifcult and handeling recovery
+##  2 many messages goes
+
+(70)Kafka connect for rdbms and old system getting data into kafka
+## kafka streams to do stream based java operations
+## ktables is better abstraction other wise each microservice has its own materialised view
+
+(71) saga patern 
+disadvantages :- atomicity is not  there ,
+advantages :- consistency or optimisitic consistency , 
+orchestration based saga or action based saga
+each microservice has its own data base 
+
+
+
