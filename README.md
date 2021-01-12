@@ -183,6 +183,7 @@ https://eng.uber.com/data-partitioning-global-indexing/
 ## fault tolerance is diifcult and handeling recovery
 ##  2 many messages goes
 
+
 (70)Kafka connect for rdbms and old system getting data into kafka
 ## kafka streams to do stream based java operations
 ## ktables is better abstraction other wise each microservice has its own materialised view
@@ -194,4 +195,18 @@ orchestration based saga or action based saga
 each microservice has its own data base 
 
 
+(72) system design interview 
+  ## bandwidth of network card is any  issue
+  ## design system providing support for wifi at airport or common hotel
+  ## design system for railway booking , how do you handle tickets  and between different stations etc // how do you store stations and routes
+  ## design shared editor like google docs
+ 
+  
+(73) spark optimisation techniques
+  ## https://davidhettler.net/blog/avro-kafka-schema-registry/
+  
+(74) avro data registry
+  ## https://davidhettler.net/blog/avro-kafka-schema-registry/
+ 
+(75) 
 
